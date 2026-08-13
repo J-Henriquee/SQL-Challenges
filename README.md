@@ -1,2 +1,2 @@
 # SQL-Challenges
-Repositório dedicado à resolução de problemas de SQL do DataLemur.
+Repositório dedicado à resolução de problemas de SQL.
